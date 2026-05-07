@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.blade.php": "html",
+        "list.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "config.h": "c",
+        "assert.h": "c",
+        "cliente.h": "c",
+        "socket.h": "c",
+        "log.h": "c",
+        "servidor.h": "c",
+        "pthread.h": "c",
+        "readline.h": "c",
+        "serializacion.h": "c",
+        "storage.h": "c",
+        "operaciones.h": "c",
+        "paquetes.h": "c",
+        "utils.h": "c"
+    }
+}
